@@ -6,4 +6,6 @@ You can see in thr IPYNB file my work on reading,cleaning,structuring and pre-pr
 
 Toward the end you can find the Evaluation metrics of the Linear Reg model too which I arrived at.
 
+In this repo, I have attached the IPYNB file I came up with and the ppt is a downloadable version
+
 Thank You
